@@ -542,3 +542,15 @@
 // }
 //
 // tabl();
+
+
+function compter() {
+    var phrase = prompt("Entrez la phrase");
+    var lettre = prompt("Quel lettre voulez vous compter");
+    var compteur = 0;
+    lettre =
+
+    while (compteur == lettre) {
+
+    }
+}
